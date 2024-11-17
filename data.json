@@ -1,0 +1,24 @@
+{
+    "pets": [
+        {
+            "name": "Rex",
+            "type": "Cachorro",
+            "age": 5
+        },
+        {
+            "name": "Mimi",
+            "type": "Gato",
+            "age": 3
+        },
+        {
+            "name": "Bob",
+            "type": "Pássaro",
+            "age": 2
+        },
+        {
+            "name": "Luna",
+            "type": "Coelho",
+            "age": 1
+        }
+    ]
+}
